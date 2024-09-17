@@ -5,4 +5,4 @@
 - 📫 Du kannst mich per [E-Mail](mailto:pedro.ferrari@stud.edubs.ch) oder über [LinkedIn](https://www.linkedin.com/in/pedro-ferrari-00a407316/) erreichen.
 - 🧗 In meiner Freizeit bin ich meistens am Bouldern.
 
-- 📲 Link zu meinem [E-Portfolio]([pedroferraris.com](https://pedroferraris.com/))
+- 📲 Link zu meinem [E-Portfolio](pedroferraris.com](https://pedroferraris.com/)
