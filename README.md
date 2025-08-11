@@ -1,8 +1,8 @@
 # 👋 Hallo, ich bin @Fedro2
 
-- ⚡ Ich besuche zurzeit das 3. Jahr der IMS und bin auf der Suche nach einem tollen Praktikum fürs Jahr 2025.
-- 🌱 Ich lerne momentan Phaser.js und React.js.
-- 📫 Du kannst mich per [E-Mail](mailto:pedro.ferrari@stud.edubs.ch) oder über [LinkedIn](https://www.linkedin.com/in/pedro-ferrari-00a407316/) erreichen.
+- ⚡ Derzeit absolviere ich ein IMS-Praktikum bei der Sympany
+- 🌱 Ich lerne momentan QUTE, Syrius.
+- 📫 Du kannst mich per [E-Mail](mailto:pedro.ferrari@sympany.ch) oder über [LinkedIn](https://www.linkedin.com/in/pedro-ferrari-00a407316/) erreichen.
 - 🧗 In meiner Freizeit bin ich meistens am Bouldern.
 
-- 📲 Link zu meinem [E-Portfolio](https://pedroferraris.com/).
+
